@@ -12,11 +12,14 @@
 
 .button {
     background-color: red;
-    height: 30px;
-    width: 120px;
-    border-radius: 10px;
+    height: 40px;
+    width: 140px;
+    border-radius: 40px;
     border-width: 0px;
     color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
     font-family: "Roboto";
 }
 
