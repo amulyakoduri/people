@@ -1,0 +1,35 @@
+
+.all {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.allDetails {
+    background-color: darkgray;
+    padding: 20px;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.left {
+    margin-top: 30px;
+    height: 50px;
+    width: 20px;
+
+}
+.active {
+   background-color: red;
+}
+
+.right {
+    margin-top: 30px;
+    height: 50px;
+    width: 50px;
+
+}

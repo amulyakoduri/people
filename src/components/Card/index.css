@@ -1,0 +1,110 @@
+
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 20px;
+    height: 82px;
+    padding: 20px;
+}
+
+.button {
+    background-color: red;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.name {
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+
+.gender{
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+.mass {
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+.birthYear{
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+
+.eyeColor{
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+
+.skinColor {
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto"; 
+}
+
+.hairColor{
+    color: gray;
+    font-size: 20px;
+    font-family: "Roboto";  
+}
+
+.nameH {
+    width: 20%;
+}
+.genderH{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto";  
+    font-weight: bold; 
+}
+.massH {
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto";  
+    font-weight: bold; 
+}
+.birthYearH{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto"; 
+    font-weight: bold;  
+}
+
+.eyeColorH{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto"; 
+    font-weight: bold; 
+}
+
+.skinColorH {
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto"; 
+    font-weight: bold;  
+}
+
+.hairColorH{
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto"; 
+    font-weight: bold; 
+}
+
+.details {
+   flex-direction: column;
+    justify-content: baseline;
+    width: 12%;
+}
